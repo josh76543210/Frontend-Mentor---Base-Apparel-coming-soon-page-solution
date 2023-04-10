@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-r31ZwJm9HZ](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-r31ZwJm9HZ)
+- Live Site URL: [https://josh76543210-fm-apparel-coming-soon.netlify.app/](https://josh76543210-fm-apparel-coming-soon.netlify.app/)
 
 ## My process
 
